@@ -9,7 +9,7 @@
 </h1>
 <p align="center">
   <em>
-    This is ME, ARYAN LUNIA , A <b>An aspiring Full Stack Web Developer</b> 
+    This is me, <B>ARYAN LUNIA</B> , <b>An aspiring Full Stack Web Developer</b> 
   </em> 
 </p>
 <h1 align="center"></h1>
