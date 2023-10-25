@@ -9,7 +9,7 @@
 </h1>
 <p align="center">
   <em>
-    This is ME, ARYAN JAIN , A <b>An aspiring web developer</b> 
+    This is ME, ARYAN LUNIA , A <b>An aspiring Full Stack Web Developer</b> 
   </em> 
 </p>
 <h1 align="center"></h1>
@@ -19,7 +19,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **VisualRead Assist (A Text Reading System for the blind )**
+- 🔭 I’m currently working on **Harvest Haven (Where technology nurtures nature)**
 
 - 🌱 I’m currently learning **DSA using Java**
 
